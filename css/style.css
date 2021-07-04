@@ -1,0 +1,32 @@
+body{
+    font-family: 'Source Code Pro', monospace;
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.top-section{
+    display: flex;
+}
+.intro{
+    width: 50%;
+    overflow: hidden;
+    padding-left: 3%;
+}
+.color-orange{
+    color: orange;
+}
+.bigger-font{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: blue;
+    font-weight: 700;
+}
+.button-color{
+    background-image: linear-gradient(orange,yellow);
+}
+.intro img{
+    width: 80%;
+}
