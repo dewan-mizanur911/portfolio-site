@@ -1,6 +1,7 @@
 body{
     font-family: 'Source Code Pro', monospace;
-    background-image: url(../images/top-banner.png);
+    color: white;
+    background: linear-gradient(#ba5370, #f4e2d8,#4568dc);
     background-repeat: no-repeat;
 }
 .top-section,.journey-section{
@@ -14,7 +15,7 @@ body{
    
 }
 .color-orange{
-    color: orange;
+    color: #61045f;
 }
 .bigger-font{
     font-size: 50px;
@@ -32,6 +33,9 @@ body{
 .intro img{
     width: 80%;
 }
+.journey-section{
+    color: black;
+}
 .end-section{
     margin-bottom: 120px;
 }
@@ -40,7 +44,7 @@ body{
     margin: 0 auto;
 }
 .end-header h1{
-    color: blue;
+    color: #185a9d;
 }
 .section-items{
     display: flex;
