@@ -1,7 +1,6 @@
 body{
     font-family: 'Source Code Pro', monospace;
-    color: white;
-    background: linear-gradient(#ba5370, #f4e2d8,#4568dc);
+    background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
 }
 .top-section,.journey-section{
