@@ -38,6 +38,10 @@ body{
     background-repeat: no-repeat;
     background-position: right;
 }
+.paragraph{
+    display: block;
+    padding-right: 65px;
+}
 .end-section{
     margin-bottom: 120px;
 }
